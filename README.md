@@ -15,12 +15,12 @@ Technologies
   <img title="HTML" height="30" src="assets/html.svg">
   <img title="CSS" height="30" src="assets/css.svg">
 
-  <img title="MySQL" height="30" src="images/mysql.svg">
-  <img title="MongoDB" height="30" src="images/mongodb.svg">
-  <img title="Redis" height="30" src="images/redis.svg">
+  <img title="MySQL" height="30" src="assets/mysql.svg">
+  <img title="MongoDB" height="30" src="assets/mongodb.svg">
+  <img title="Redis" height="30" src="assets/redis.svg">
 
-  <img title="yml" height="30" src="images/yaml.svg">
-  <img title="JSON" height="30" src="images/json.svg">
+  <img title="yml" height="30" src="assets/yaml.svg">
+  <img title="JSON" height="30" src="assets/json.svg">
 
 </p>
 <h3 align="center">
@@ -28,17 +28,17 @@ Tools
 </h3>
 <p align="center">
 
-  <img title="Visual Studio Code" height="30" src="assets/vscode.png">
+  <img title="Visual Studio Code" height="30" src="assets/vsc.png">
   <img title="IntelliJ IDEA" height="30" src="assets/idea.png">
+  <img title="Eclipse" height="30" src="assets/eclipse.png">
 
-  <img title="npm" height="30" src="images/npm.svg">
-  <img title="git" height="30" src="images/git.svg">
+  <img title="npm" height="30" src="assets/npm.svg">
+  <img title="git" height="30" src="assets/git.svg">
 
+  <img title="Termius" height="30" src="assets/termius.svg">
+  <img title="Postman" height="30" src="assets/postman.svg">
 
-  <img title="Termius" height="30" src="images/termius.svg">
-  <img title="Postman" height="30" src="images/postman.svg">
-
-  <img title="Ubuntu" height="30" src="images/ubuntu.svg">
-  <img title="NGINX" height="30" src="images/nginx.svg">
+  <img title="Ubuntu" height="30" src="assets/ubuntu.svg">
+  <img title="NGINX" height="30" src="assets/nginx.svg">
 
 </p>
