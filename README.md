@@ -28,10 +28,9 @@ Tools
 </h3>
 <p align="center">
 
-  <img title="Visual Studio Code" height="30" src="assets/vsc.png">
-  <img title="IntelliJ IDEA" height="30" src="assets/idea.png">
-  <img title="Eclipse" height="30" src="assets/eclipse.png">
-
+  <img title="Visual Studio Code" height="30" src="assets/vsc.svg">
+  <img title="IntelliJ IDEA" height="30" src="assets/idea.svg">
+  
   <img title="npm" height="30" src="assets/npm.svg">
   <img title="git" height="30" src="assets/git.svg">
 
