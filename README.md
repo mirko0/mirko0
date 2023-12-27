@@ -30,15 +30,11 @@ Tools
 
   <img title="Visual Studio Code" height="30" src="assets/vscode.png">
   <img title="IntelliJ IDEA" height="30" src="assets/idea.png">
-  <img title="Eclipse" height="30" src="assets/eclipse.png">
 
   <img title="npm" height="30" src="images/npm.svg">
   <img title="git" height="30" src="images/git.svg">
 
 
-  <img title="MongoDB Compass" height="30" src="images/compass.svg">
-  <img title="MySQL Workbench" height="30" src="images/workbench.svg">
-  <img title="Redis Insight" height="30" src="images/npm.svg">
   <img title="Termius" height="30" src="images/termius.svg">
   <img title="Postman" height="30" src="images/postman.svg">
 
