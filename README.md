@@ -41,3 +41,7 @@ Tools
   <img title="NGINX" height="45" src="assets/nginx.svg">
 
 </p>
+
+<p align="center">
+  <img alt="stats" src="https://github-readme-streak-stats.herokuapp.com/?user=mirko0&theme=react&hide_border=true">
+</p>
