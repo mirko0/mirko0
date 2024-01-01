@@ -15,6 +15,9 @@ Technologies
   <img title="HTML" height="45" src="assets/html.svg">
   <img title="CSS" height="45" src="assets/css.svg">
 
+  <img title="Spring Boot" height="45" src="assets/springboot.svg">
+  <img title="React" height="45" src="assets/react.svg">
+
   <img title="MySQL" height="45" src="assets/mysql.svg">
   <img title="MongoDB" height="45" src="assets/mongodb.svg">
   <img title="Redis" height="45" src="assets/redis.svg">
