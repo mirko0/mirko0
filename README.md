@@ -3,7 +3,7 @@ Mirko Palackovic
 </h1>
 
   <p align="center">
-   Java Web Developer
+   Fullstack web developer
   </p>
 <h3 align="center">
 Technologies
