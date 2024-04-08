@@ -3,7 +3,7 @@ Mirko Palackovic
 </h1>
 
   <p align="center">
-   Fullstack web developer
+   Fullstack Web Developer
   </p>
 <h3 align="center">
 Technologies
