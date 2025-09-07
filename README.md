@@ -16,6 +16,7 @@ Technologies
   <img title="CSS" height="45" src="assets/css.svg">
 
   <img title="Spring Boot" height="45" src="assets/springboot.svg">
+  <img title="Next.js" height="45" src="assets/nextjs.svg">
   <img title="React" height="45" src="assets/react.svg">
 
   <img title="MySQL" height="45" src="assets/mysql.svg">
